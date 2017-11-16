@@ -54,6 +54,8 @@
   <string name="quick_settings_usb_tether_label">USB 共享网络</string>
   <!-- Volume panel QS tile -->
   <string name="quick_settings_volume_panel_label">音量面板</string>
+  <!-- Screenshot QS tile -->
+  <string name="quick_settings_screenshot_label">屏幕截图</string>
   <!-- Navigation bar dpad -->
   <string name="accessibility_dpad_left">光标左移</string>
   <string name="accessibility_dpad_right">光标右移</string>
